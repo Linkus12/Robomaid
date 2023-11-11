@@ -1,0 +1,7 @@
+{
+    "FFlagDebugGraphicsPreferVulkan": "False",
+    "FFlagFixGraphicsQuality": "True",
+    "FFlagDisableNewIGMinDUA": "False",
+    "FFlagEnableInGameMenuV3": "True",
+    "FFlagDebugForceFutureIsBrightPhase3": "True"
+   }
